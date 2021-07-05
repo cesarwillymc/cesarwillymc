@@ -29,7 +29,6 @@ And more...
 
 ## Find me at:
 
-</br>
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/cesar.willy.mamani.canaza)
 </br>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/cesarwillymc)
