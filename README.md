@@ -1,4 +1,4 @@
-# Hello, my name is Cesar Mamani
+# Hello, my name is Cesar Canaza
 ### I am software developer, I work as Android engineer, Flutter & iOS
 
 I'm a professional software developer for more than 4 years.
