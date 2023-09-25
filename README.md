@@ -1,12 +1,12 @@
 # Hello, my name is Cesar Mamani
-### I am software developer, i work as Android engineer, Flutter & iOS
+### I am software developer, I work as Android engineer, Flutter & iOS
 
-I'm a professional software developer for more than two years.
+I'm a professional software developer for more than 4 years.
 
-I am a mobile developer, I always set goals and I fulfill them !! Now I am consolidating in flutter development and learning IOS.
+I am a mobile developer, I always set goals and I fulfill them !! Now I am consolidating in Jetpack compose development and learning IOS.
 I started developing mobile phones since college and I still haven't stopped.
 
-I started programming in 2018 but I started my working life in 2019, I want to keep learning and improving. To be able to contribute knowledge and receive comments on how to improve.
+I started programming in 2017 but I started my working life in 2018, I want to keep learning and improving. To be able to contribute knowledge and receive comments on how to improve.
 
 ## Skills:
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
